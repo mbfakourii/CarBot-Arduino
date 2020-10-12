@@ -2,7 +2,7 @@
 Car robot with socket to Android with WeMos or NodeMCU
 
 ## Demo
-[![Demo](https://github.com/mbfakourii/CarBot-Arduino/blob/master/Presentation/2.gif)]
+![Demo](https://github.com/mbfakourii/CarBot-Arduino/blob/master/Presentation/2.gif)
 
 ## Car Robot
 <img src="https://github.com/mbfakourii/CarBot-Arduino/blob/master/Presentation/1.jpg" width="45%"></img>
